@@ -43,4 +43,4 @@
 
 12. Vitest UI
     - vitest ui adalah web dashboard untuk memonitor Unit Test yg kita buat, mana yg sukses , mana yg gagal.
-    - 
+    - untuk menjalankan vitest ui run perintah : npx vitest --ui
